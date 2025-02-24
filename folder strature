@@ -1,0 +1,9 @@
+cv-website/
+│
+├── index.html       // Main HTML file
+├── style.css        // Custom CSS for styling
+├── script.js        // JavaScript for animations and interactivity
+├── assets/          // Folder for images, icons, etc.
+│   ├── profile.jpg  // Your profile picture
+│   └── ...          // Other assets like logos
+└── README.md        // Optional: Instructions for hosting
